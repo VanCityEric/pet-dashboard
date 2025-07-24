@@ -1,0 +1,10 @@
+.pet-profile-btns {
+  display: flex;
+  gap: 5px;
+}
+
+.pet-profile-card {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

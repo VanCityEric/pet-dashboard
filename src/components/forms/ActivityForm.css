@@ -1,0 +1,11 @@
+.activity-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.activity-form form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
